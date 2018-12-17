@@ -1,0 +1,9 @@
+
+public class Tester
+{
+    public static void main(String[] args)
+    {
+      int q = 120;
+      Hashmap Tester = new Hashmap();
+    }
+}

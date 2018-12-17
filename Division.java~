@@ -1,0 +1,11 @@
+
+public class Division
+{
+    public static void main(String[] args)
+    {
+      int x = 12501;
+      int y = 100;
+      system.out.println(x%y);
+    }
+}
+      
